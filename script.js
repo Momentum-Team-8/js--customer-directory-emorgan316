@@ -1,4 +1,4 @@
-console.log("hello")
+
 console.log("array of customers")
 
 const insertionPoint = document.querySelector("#output")
@@ -47,4 +47,3 @@ for (let customer of customers) {
    custCard.appendChild(custStart)
 
 }
-
